@@ -1,0 +1,19 @@
+body {
+    background-color: blue;
+}
+h1{
+    color: white;
+}
+h2{
+    color: chartreuse;
+}
+
+.pai {
+    margin: 200px 0 0 200px;
+    position: absolute;
+}
+
+.filho {
+    position: relative;
+    margin: 20px 0 0 20px;
+}
